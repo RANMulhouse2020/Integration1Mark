@@ -34,7 +34,7 @@ Les autres propiétés parlent "d'elles-même" : "ça doit couvrir tout" et "l'i
 
 Ahhhh, grand sujet que la navigation, surtout dans ce projet. Je ne vous obligeait à ce que celle-ci *réagisse au clic**, ce premier projet est conecntré sur HMTL / CSS, mais certains ont fait du JS **big-up à eux**.
 
-La navigation, dans les consignes ne vous était pas imposé à faire avec Boostrap. Ma raison ? Un menu Bootstrap responsive ça se grille à 100km à la ronde + vous saurez tous comment faire une navigation responsive, je vous le promets ! Et pour ce point là, **Bootstrap n'est pas forcement la meilleure solution**.
+La navigation, dans les consignes ne vous était pas imposé à faire avec Boostrap. Ma raison ? Un menu Bootstrap responsive ça se grille à 100km à la ronde + vous saurez tous comment faire une navigation responsive, je vous le promets ! Et pour ce point là, **Bootstrap n'est pas forcément la meilleure solution**.
 
 J'ai donc commencé par mettre la nav en :
 ```css
@@ -46,3 +46,5 @@ J'ai donc commencé par mettre la nav en :
 ```
 
 Cela m'a permis d'avoir la navigation **où je voulais** et cela même par rapport **au scroll effectué dans la page *(d'où le fixed)***
+
+Par la suite, j'ai juste utilisé quelques padding et/ou marging pour aligner les éléments. Si vous désirez que des actions se déroulent **au clique sur le burger** cela nécessite du JS (pour réagir sur *l'évènement click*) ; sauf si vous faites un trick CSS qui ne me semble pas propre, cacher un input à checker puis faire du CSS sur la pseudo-class :checked (**c'est variment pas porpre à mon humble opinion**).
