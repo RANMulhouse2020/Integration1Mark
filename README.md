@@ -2,7 +2,7 @@
 
 Bonjour à tous ! Voici ma version de ce projet d'intégration où le but était de découvrir le plus Bootstrap et vous sensibiliser au sujet du responsive ! 
 
-Pour faire cela j'ai donc employé le plus possibles des **classes Bootstrap existantes** pour obtenir ce que je désirais (c'est à dire que ce soit responsive et le plus provhe de la maquette d'origine).
+Pour faire cela j'ai donc employé le plus possibles des **classes Bootstrap existantes** pour obtenir ce que je désirais (c'est à dire que ce **soit responsive et le plus proche de la maquette d'origine**).
 
 ## Marging et Padding
 
