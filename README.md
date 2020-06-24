@@ -10,7 +10,7 @@ Par exemple, j'ai beaucoup quelques **mb-x**, **mt-x** et **pl-x** ou autres, qu
 
 ## Background-image (pour la première partie/section/header, peut importe comment vous l'appelez)
 
-Vous l'aurez sans doute remarquez, nous avions une image de fond pour le début de notre maquette (nos *fameseuse bottes de foin*). J'ai **fait le choix (car je n'ai pas de collègues web-designer avec qui parler sur ce projet)** d'avoir la première *section* de notre site qui doit avoir une hauteur égale à celle de l'écran, de ce fait, dans mon HTML, via Bootstrap j'ai pu écrire : 
+Vous l'aurez sans doute remarquez, nous avions une image de fond pour le début de notre maquette (nos *fameusses bottes de foin*). J'ai **fait le choix (car je n'ai pas de collègues web-designer avec qui parler sur ce projet)** d'avoir la première *section* de notre site qui doit avoir une hauteur égale à celle de l'écran, de ce fait, dans mon HTML, via Bootstrap j'ai pu écrire : 
 ```html
  <div class="row vh-100">
 ```
