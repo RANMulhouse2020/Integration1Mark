@@ -29,3 +29,9 @@ En effet, le **background-position** a changé le comportement de notre image de
 
 
 Les autres propiétés parlent "d'elles-même" : "ça doit couvrir tout" et "l'image de fond ne doit pas se répéter plusieurs fois".
+
+## La navigation
+
+Ahhhh, grand sujet que la navigation, surtout dans ce projet. Je ne vous obligeait à ce que celle-ci *réagisse au clic**, ce premier projet est conecntré sur HMTL / CSS, mais certains ont fait du JS **big-up à eux**.
+
+La navigation, dans les consignes ne vous était pas imposé à faire avec Boostrap. Ma raison ? Un menu Bootstrap responsive ça se grille à 100km à la ronde + vous saurez tous comment faire une navigation responsive, je vous le promets ! Et pour ce point là, Bootstrap n'est pas **forcement la meilleure solution**.
