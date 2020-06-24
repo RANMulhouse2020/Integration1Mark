@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'Aileron';
+    src: url('../fonts/aileron-fontfacekit/Aileron-Regular-webfont.woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Aileron';
+    src: url('../fonts/aileron-fontfacekit/Aileron-Bold-webfont.woff');
+    font-weight: bold;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+header {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.burger {
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.burger:hover {
+    cursor: pointer;
+}
+
+.burger-part {
+    height: 6px;
+    width: 30px;
+    background-color: black;
+}
+
+nav {
+    z-index: 999;
+    top: 25px;
+    right: 25px;
+}
+
+nav ul li {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+nav ul li a {
+    width: 20px;
+}
+
+nav ul li a i {
+    padding-left: 7px;
+}
+
+h1,
+h2 {
+    font-family: 'Caladea',
+        serif;
+}
+
+p,
+h3 {
+    font-family: 'Aileron', sans-serif;
+}
+
+.lh-36 {
+    line-height: 36px;
+}
+
+.fs-48 {
+    font-size: 48px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-36 {
+    font-size: 36px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.primary-red {
+    color: #d63c37;
+}
+
+.bg-red {
+    background-color: #d63c37;
+}
+
+#first-section .container {
+    margin-top: 340px;
+}
+
+#star::before {
+    content: '\2606';
+    color: #d63c37;
+    position: absolute;
+    left: -20px;
+}
+
+#heart::before {
+    content: '\2661';
+    color: #d63c37;
+    position: absolute;
+    left: -20px;
+}
+
+#moon::before {
+    content: '\263E';
+    color: #d63c37;
+    position: absolute;
+    left: -20px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+}
+
+#second-section .container {
+    padding: 300px 0;
+}
