@@ -14,4 +14,4 @@ Vous l'aurez sans doute remarquez, nous avions une image de fond pour le début 
 ```html
  <div class="row vh-100">
 ```
-et de ce fait utiliser une classe Bootstrap existante pour faire qu'un *morceau de notre structure HTML* fasse toujours *la hauteur de l'écran sur lequel on voit le site*
+et de ce fait utiliser une classe Bootstrap existante (**vh-100**, c'est lié au **view-height**) pour faire qu'un *morceau de notre structure HTML* fasse toujours *la hauteur de l'écran sur lequel on voit le site.*
