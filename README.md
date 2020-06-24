@@ -19,7 +19,7 @@ et de ce fait utiliser une classe Bootstrap existante (**vh-100**, c'est lié au
 Afin que cette image en background soit responsive je lui ais appliqué ces différentes propriétés (dont une **plus importante dans ce cas, cf : Merci Daniel**)
 
 ```css
-    background-image: url("../img/background.png");
+    background-image: url("../img/background.png"); /* chemin relatif par rapport au fichier CSS */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
