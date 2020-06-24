@@ -25,7 +25,7 @@ Afin que cette image en background soit responsive je lui ais appliqué ces diff
     background-position: bottom;
 ```
 
-En effet, le **background-position** a changé le comportement de notre image de background et celle-ci montre en effet toujours nos fameusses bottes de foin apparaissent, en effet celles-ci sont en bas de l'image et *en toute logique* on veut les voir dans notres section, de ce fait j'ai changé la [propriété background-position.](https://developer.mozilla.org/fr/docs/Web/CSS/background-position)
+En effet, le **background-position** a changé le comportement de notre image de background et celle-ci montre en effet toujours nos fameusses bottes de foin à l'écran, en effet celles-ci sont en bas de l'image et *en toute logique* on veut les voir dans notres section, de ce fait j'ai changé la [propriété background-position.](https://developer.mozilla.org/fr/docs/Web/CSS/background-position)
 
 
 Les autres propiétés parlent "d'elles-même" : "ça doit couvrir tout" et "l'image de fond ne doit pas se répéter plusieurs fois".
