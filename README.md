@@ -34,4 +34,15 @@ Les autres propiétés parlent "d'elles-même" : "ça doit couvrir tout" et "l'i
 
 Ahhhh, grand sujet que la navigation, surtout dans ce projet. Je ne vous obligeait à ce que celle-ci *réagisse au clic**, ce premier projet est conecntré sur HMTL / CSS, mais certains ont fait du JS **big-up à eux**.
 
-La navigation, dans les consignes ne vous était pas imposé à faire avec Boostrap. Ma raison ? Un menu Bootstrap responsive ça se grille à 100km à la ronde + vous saurez tous comment faire une navigation responsive, je vous le promets ! Et pour ce point là, Bootstrap n'est pas **forcement la meilleure solution**.
+La navigation, dans les consignes ne vous était pas imposé à faire avec Boostrap. Ma raison ? Un menu Bootstrap responsive ça se grille à 100km à la ronde + vous saurez tous comment faire une navigation responsive, je vous le promets ! Et pour ce point là, **Bootstrap n'est pas forcement la meilleure solution**.
+
+J'ai donc commencé par mettre la nav en :
+```css
+    nav{
+        position : fixed;
+        top: 25px; /* 25 pixels par rapport au haut de la page */
+        right: 25px; /* 25 pixelspar rapport à la droite de la page*/
+    }
+```
+
+Cela m'a permis d'avoir la navigation **où je voulais** et cela même par rapport **au scroll effectué dans la page *(d'où le fixed)***
