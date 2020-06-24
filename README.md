@@ -4,4 +4,7 @@ Bonjour à tous ! Voici ma version de ce projet d'intégration où le but était
 
 Pour faire cela j'ai donc employé le plus possibles des **classes Bootstrap existantes** pour obtenir ce que je désirais (c'est à dire que ce soit responsive et le plus provhe de la maquette d'origine).
 
-Par exemple, j'ai beaucoup utilisé de **mb-x** ou **mt-x** qui sont des classes de Bootstrap permettant de gérer le margin-top ou le margin-bottom même si ce ne sont pas les tailles de marge désirées.
+##Marging et Padding
+
+Par exemple, j'ai beaucoup quelques **mb-x**, **mt-x** et **pl-x** ou autres, qui sont des classes de Bootstrap permettant de gérer les margins et paddings (avec *t = top*, *r = right*, *b = bottom* et *l = left* ) même si ce ne sont pas les tailles de marges et paddings désirées (dans le **but de découvrir Bootstrap**).
+
