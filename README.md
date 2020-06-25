@@ -47,4 +47,4 @@ J'ai donc commencé par mettre la nav en :
 
 Cela m'a permis d'avoir la navigation **où je voulais** et cela même par rapport **au scroll effectué dans la page *(d'où le fixed)***
 
-Par la suite, j'ai juste utilisé quelques padding et/ou marging pour aligner les éléments. Si vous désirez que des actions se déroulent **au clique sur le burger** cela nécessite du JS (pour réagir sur *l'évènement click*) ; sauf si vous faites un trick CSS qui ne me semble pas propre, cacher un input à checker puis faire du CSS sur la pseudo-class :checked (**c'est vraiment pas porpre à mon humble opinion**).
+Par la suite, j'ai juste utilisé quelques padding et/ou marging pour aligner les éléments. Si vous désirez que des actions se déroulent **au clique sur le burger** cela nécessite du JS (pour réagir sur *l'évènement click*) ; sauf si vous faites un trick CSS qui ne me semble pas propre, cacher un input à checker puis faire du CSS sur la pseudo-class :checked (**c'est vraiment pas propre à mon humble opinion**).
