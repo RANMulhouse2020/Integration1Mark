@@ -1,4 +1,4 @@
-# Integration maquette "Mark"
+# Intégration maquette "Mark"
 
 Bonjour à tous ! Voici ma version de ce projet d'intégration où le but était de découvrir le plus Bootstrap et vous sensibiliser au sujet du responsive ! 
 
